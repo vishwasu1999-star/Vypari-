@@ -1,0 +1,35 @@
+{
+  "name": "Vyapari App",
+  "short_name": "Vyapari",
+  "description": "Complete Business Accounting for Indian Traders",
+  "start_url": "/Vypari-/",
+  "scope": "/Vypari-/",
+  "display": "standalone",
+  "background_color": "#090912",
+  "theme_color": "#f5a623",
+  "orientation": "portrait-primary",
+  "lang": "en-IN",
+  "icons": [
+    {
+      "src": "/Vypari-/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/Vypari-/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/Vypari-/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Vyapari App"
+    }
+  ]
+}
